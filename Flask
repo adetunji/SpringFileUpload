@@ -1,0 +1,2 @@
+Create a simple Flask Application where a user can upload an image file.
+Store the path of the file in a database.
